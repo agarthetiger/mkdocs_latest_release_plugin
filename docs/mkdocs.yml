@@ -2,4 +2,5 @@ site_name: Git, Python and MKDocs
 
 plugins:
   - search
+  - git-latest-tag
   - git-revision-date

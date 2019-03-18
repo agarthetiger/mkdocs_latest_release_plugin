@@ -16,4 +16,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
+
+Latest release: {{ git_latest_version }}
+
 Page last revised on: {{ git_revision_date }}

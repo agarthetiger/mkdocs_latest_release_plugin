@@ -1,2 +1,6 @@
-venv/
-.idea/
+**/venv/
+**/.idea/
+**/docs/site/
+**/dist/
+*.egg-info/
+**/build/
